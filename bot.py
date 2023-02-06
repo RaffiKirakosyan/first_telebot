@@ -2,9 +2,12 @@ import telebot
 from telebot import types
 
 """
-documentations
+documentations :
 https://github.com/eternnoir/pyTelegramBotAPI/tree/master/examples/webhook_examples
 https://pytba.readthedocs.io/en/latest/types.html#telebot.types.InputFile
+
+bot username :
+@tube_tele_bot
 
 
 """
